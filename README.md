@@ -1,3 +1,6 @@
+Author Credit: http://corygwin.com/post/83275077892/shopify-starter
+
+
 Shopify Starter - Grunt, Bootstrap, Modernizr, jQuery, Compass, Live Reload and more
 ============
 

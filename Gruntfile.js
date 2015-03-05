@@ -90,10 +90,10 @@ module.exports = function(grunt) {
     //upload changed files to shopify
     shopify: {
       options: {
-        api_key: "ee5f3cee0ce8848f8422e442ce3315f8",
-        password: "scheid",
-        url: "http://my-starter-shopify.myshopify.com/",
-        base: "shop/"
+        api_key: 'ee5f3cee0ce8848f8422e442ce3315f8',
+        password: '3a29d6acc2faa1073e4192aa19c5dcea',
+        url: 'http://my-starter-shopify.myshopify.com/',
+        base: 'shop/'
       }
     },
     watch: {
